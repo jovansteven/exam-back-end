@@ -1,0 +1,14 @@
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\obj\Debug\net6.0\ExamGripFoodBackEnd.Entities.csproj.AssemblyReference.cache
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\obj\Debug\net6.0\ExamGripFoodBackEnd.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\obj\Debug\net6.0\ExamGripFoodBackEnd.Entities.AssemblyInfoInputs.cache
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\obj\Debug\net6.0\ExamGripFoodBackEnd.Entities.AssemblyInfo.cs
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\obj\Debug\net6.0\ExamGripFoodBackEnd.Entities.csproj.CoreCompileInputs.cache
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\bin\Debug\net6.0\ExamGripFoodBackEnd.Entities.deps.json
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\bin\Debug\net6.0\ExamGripFoodBackEnd.Entities.runtimeconfig.json
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\bin\Debug\net6.0\ExamGripFoodBackEnd.Entities.dll
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\bin\Debug\net6.0\ExamGripFoodBackEnd.Entities.pdb
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\obj\Debug\net6.0\ExamGripFoodBackEnd.Entities.dll
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\obj\Debug\net6.0\refint\ExamGripFoodBackEnd.Entities.dll
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\obj\Debug\net6.0\ExamGripFoodBackEnd.Entities.pdb
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\obj\Debug\net6.0\ExamGripFoodBackEnd.Entities.genruntimeconfig.cache
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd.Entities\obj\Debug\net6.0\ref\ExamGripFoodBackEnd.Entities.dll
