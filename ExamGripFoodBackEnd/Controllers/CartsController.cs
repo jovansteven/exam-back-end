@@ -82,7 +82,7 @@ namespace ExamGripFoodBackEnd.Controllers
 
         // POST: api/Carts
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPost]
+        [HttpPost(Name = "AddToCart")]
         public async Task<ActionResult<Cart>> PostCart(Cart cart)
         {
           if (_context.Carts == null)

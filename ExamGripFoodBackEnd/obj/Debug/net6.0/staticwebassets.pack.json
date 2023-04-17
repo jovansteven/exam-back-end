@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Jovan Steven - Magang\\[17-04-2023] ExamFrontEndBackEnd\\ExamGripFoodBackEnd\\ExamGripFoodBackEnd\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\Jovan Steven - Magang\\[17-04-2023] ExamFrontEndBackEnd\\ExamGripFoodBackEnd\\ExamGripFoodBackEnd\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Jovan Steven - Magang\\[17-04-2023] ExamFrontEndBackEnd\\ExamGripFoodBackEnd\\ExamGripFoodBackEnd\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Jovan Steven - Magang\\[17-04-2023] ExamFrontEndBackEnd\\ExamGripFoodBackEnd\\ExamGripFoodBackEnd\\wwwroot\\lib\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Jovan Steven - Magang\\[17-04-2023] ExamFrontEndBackEnd\\ExamGripFoodBackEnd\\ExamGripFoodBackEnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Jovan Steven - Magang\\[17-04-2023] ExamFrontEndBackEnd\\ExamGripFoodBackEnd\\ExamGripFoodBackEnd\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ExamGripFoodBackEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ExamGripFoodBackEnd.props",
+      "PackagePath": "build\\ExamGripFoodBackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ExamGripFoodBackEnd.props",
+      "PackagePath": "buildMultiTargeting\\ExamGripFoodBackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ExamGripFoodBackEnd.props",
+      "PackagePath": "buildTransitive\\ExamGripFoodBackEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

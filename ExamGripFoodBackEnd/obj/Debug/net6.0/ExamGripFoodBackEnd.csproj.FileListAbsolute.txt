@@ -332,3 +332,7 @@ D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\Ex
 D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd\obj\Debug\net6.0\ExamGripFoodBackEnd.RazorAssemblyInfo.cache
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd\obj\Debug\net6.0\ExamGripFoodBackEnd.RazorAssemblyInfo.cs
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd\bin\Debug\net6.0\libman.json
+D:\Jovan Steven - Magang\[17-04-2023] ExamFrontEndBackEnd\ExamGripFoodBackEnd\ExamGripFoodBackEnd\bin\Debug\net6.0\ExamGripFoodBackEnd.staticwebassets.runtime.json

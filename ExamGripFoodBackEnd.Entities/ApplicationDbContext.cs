@@ -137,5 +137,7 @@ namespace ExamGripFoodBackEnd.Entities
         public DbSet<Restaurant> Restaurants => Set<Restaurant>();
 
         public DbSet<User> Users => Set<User>();
+
+        public DbSet<DataProtectionKey> DataProtectionKeys => Set<DataProtectionKey>();
     }
 }
